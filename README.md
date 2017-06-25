@@ -26,3 +26,4 @@ http://127.0.0.1:8000/
 ```
 ### Screenshorts
 ![Alt text](img/Screenshot from 2017-06-25 09-36-28.png?raw=true "Optional Title")
+![alt text](img/Screenshot from 2017-06-25 09-36-28.png "Description goes here")
