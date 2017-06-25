@@ -25,5 +25,7 @@ python manage.py runserver
 http://127.0.0.1:8000/
 ```
 ### Screenshorts
-![Alt text](img/Screenshot from 2017-06-25 09-36-28.png?raw=true "Optional Title")
-![alt text](img/Screenshot from 2017-06-25 09-36-28.png "Description goes here")
+
+![screenshot from 2017-06-25 09-36-28](https://user-images.githubusercontent.com/20622980/27513648-d6aad31e-598b-11e7-9a5d-5973085ba4da.png)
+
+![screenshot from 2017-06-25 09-36-36](https://user-images.githubusercontent.com/20622980/27513653-4c4a7e4e-598c-11e7-8fd8-ef7a4a2252f8.png)
